@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>netfx-System.ISerializer</id>
+    <version>1.0.0.1</version>
+    <title>NETFx ISerializer&lt;TStorage&gt;</title>
+    <authors>Daniel Cazzulino,  kzu,  Clarius Consulting</authors>
+    <owners>Daniel Cazzulino,  kzu,  Clarius Consulting</owners>
+    <licenseUrl>http://netfx.codeplex.com/license</licenseUrl>
+    <projectUrl>http://netfx.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=netfx&amp;DownloadId=199201</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core interface that serializers can implement to serialize and deserialize an object graph to and from a Stream.</description>
+    <tags>netfx system</tags>
+    <dependencies>
+      <dependency id="netfx-Guard" version="1.3" />
+    </dependencies>
+  </metadata>
+</package>
